@@ -1,0 +1,6 @@
+E:\trwCh12Ex03c\trwCh12Ex03c\bin\Debug\trwCh12Ex03c.exe.config
+E:\trwCh12Ex03c\trwCh12Ex03c\obj\Debug\trwCh12Ex03c.csprojResolveAssemblyReference.cache
+E:\trwCh12Ex03c\trwCh12Ex03c\bin\Debug\trwCh12Ex03c.exe
+E:\trwCh12Ex03c\trwCh12Ex03c\bin\Debug\trwCh12Ex03c.pdb
+E:\trwCh12Ex03c\trwCh12Ex03c\obj\Debug\trwCh12Ex03c.exe
+E:\trwCh12Ex03c\trwCh12Ex03c\obj\Debug\trwCh12Ex03c.pdb
